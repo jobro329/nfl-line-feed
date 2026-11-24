@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-11-24T14:22:00Z",
-  "latest_snapshot_utc": "2026-11-24T14:22:00Z",
+  "generated_utc": "2026-11-24T15:18:00Z",
+  "latest_snapshot_utc": "2026-11-24T15:18:00Z",
   "season": 2026,
   "games_in_pull": 16,
   "upcoming_games": 16,
   "games_closed": 1,
   "quota": {
-    "x-requests-remaining": "488",
-    "x-requests-used": "12",
+    "x-requests-remaining": "485",
+    "x-requests-used": "15",
     "x-requests-last": "3"
   },
   "bookmakers": [
